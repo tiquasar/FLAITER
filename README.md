@@ -7,7 +7,7 @@
   <td><img src=https://camo.githubusercontent.com/d7dccdc0b79fb061c294b5a8785fe6df7c979f862d0e61c63fe255541e316df7/68747470733a2f2f7472617669732d63692e6f72672f466573746966792f6170702e7376673f6272616e63683d646576656c6f70></td>
  </tr>
  </table>
-A Macine Learning and AI App Developed in Flutter.<br>
+A Machine Learning and AI App Developed in Flutter.<br>
 <p>
 App Developed using specially developed Tensorflow Lite models.<br>
 Features of Flaiter:<br>
