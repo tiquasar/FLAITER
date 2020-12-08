@@ -8,10 +8,10 @@ Features of Flaiter:<br>
   2.) Object Detection Feature.<br>
   3.) Advanced Object Detection Features.<br>
   4.) Object Detection and Classsification and Pose Detection<br>
-      PoseNet ,MobileNet,YOLO,SSD MobileNet algorithms developed in Tensorflow Lite<br>
-  6.) Lightweight on CPU Resources.<br>
-  7.) Link To Tools and Developer Tools Included Under About App Section (Gear Icon).<br>
-  8.) The App has A dedicated App Review and Bug Report Section.<br><br>
+  5.) PoseNet ,MobileNet,YOLO,SSD MobileNet algorithms developed in Tensorflow Lite<br>
+  6.) Animal Classification (currently for 2 labels CAT and DOG ).<br>
+  7.) Hand gesture Recognition.<br>
+  8.) Link To Tools and Developer Tools Included Under About App Section (Gear Icon).<br><br>
 
 
 <table>
