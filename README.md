@@ -1,4 +1,4 @@
-# flaiter
+# Flaiter
 
 Machine Learning and AI Mobile Application
 
